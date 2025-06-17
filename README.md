@@ -2,7 +2,7 @@
 Kleines Programm mit Customtkinter für das UI
 
 
-falsch.png: Falsche Proportionen, die durch den Scrollframe entstehen
+falsch.png: Falsche Proportionen, die durch den Scrollframe entstehen /n
 richtig.png: Richtige Proportionen, wobei der Scrollframe auskommentiert ist
 
 Vermutung: Scrollframe hat ein Problem mit parenting (dem Frame "sl" als parent)
